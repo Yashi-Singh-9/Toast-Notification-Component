@@ -1,4 +1,4 @@
-# Toast Notification Component Challenge
+# Toast Notification Component - FrontendPro Solution
 
 ## Overview
 
