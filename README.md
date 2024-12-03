@@ -34,6 +34,10 @@ The Toast Notification Component fulfills the following requirements:
 
 ---
 
+## Preview
+
+<img src="Screenshot .png">
+
 ## Tech Stack
 
 ### **HTML**
